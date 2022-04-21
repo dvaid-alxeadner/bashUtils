@@ -1,0 +1,2 @@
+# bashUtils
+Generic Bash Utils
